@@ -14,6 +14,6 @@ Any filetype supported by music21 (which is basically any) can be specified. Add
 
 The script `pearce_corpus.py` parses the well established benchmarking corpus published by Pearce: http://webprojects.eecs.qmul.ac.uk/marcusp/software/JNMR2004.zip
 
-Follow the instructions in the script to set the corpus as well as cross-validation filepaths, then run. The parsed corpus will be stored as pickles in the path of the corpus.
+Follow the instructions in the script to configure the corpus as well as cross-validation filepaths, then run. The results will be stored as pickles in the directory of the corpus.
 
 Enjoy!
