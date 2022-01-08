@@ -1,7 +1,7 @@
 import pickle
 import pyparsing
 import numpy as np
-from parser import parse_dataset
+from score_parser import parse_dataset
 
 # This script parses the Pearce dataset:
 # http://webprojects.eecs.qmul.ac.uk/marcusp/software/JNMR2004.zip
